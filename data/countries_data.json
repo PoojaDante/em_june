@@ -22,14 +22,6 @@
     "datasets": {
       "real_gdp_growth": [
   {
-    "timestamp": "Mar-18",
-    "data": 6.9
-  },
-  {
-    "timestamp": "Apr-18",
-    "data": 6.9
-  },
-  {
     "timestamp": "May-18",
     "data": 6.9
   },
@@ -120,6 +112,18 @@
   {
     "timestamp": "Mar-20",
     "data": -6.8
+  },
+  {
+    "timestamp": "Apr-20",
+    "data": 3.2
+  },
+  {
+    "timestamp": "May-20",
+    "data": 3.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "data": 3.2
   }
 ],
       "pmi_manufacturing": [
