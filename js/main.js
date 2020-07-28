@@ -32,7 +32,6 @@ $(function () {
   }
   window.sliderToJsonDataGap = 13;
   window.monthValues = [
-    "May-19",
     "Jun-19",
     "Jul-19",
     "Aug-19",
@@ -44,6 +43,7 @@ $(function () {
     "Feb-20",
     "Mar-20",
     "Apr-20",
+    "Jun-20",
   ];
   $("#slider1").attr("min", 0);
   $("#slider1").attr("max", monthValues.length - 1);
