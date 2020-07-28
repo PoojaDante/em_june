@@ -43,6 +43,7 @@ $(function () {
     "Feb-20",
     "Mar-20",
     "Apr-20",
+    "May-20",
     "Jun-20",
   ];
   $("#slider1").attr("min", 0);
