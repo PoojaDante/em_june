@@ -205,7 +205,7 @@ function renderUI(resData) {
   countryToBgColor = countryToBgColor.sort(function (a, b) {
     return a.score > b.score ? -1 : 1;
   });
-  if (window.currentKey) {
+  if (window.currentKey === "cpi_inflation") {
     countryToBgColor = countryToBgColor.sort(function (a, b) {
       return Math.abs(a.score) > Math.abs(b.score) ? -1 : 1;
     });
